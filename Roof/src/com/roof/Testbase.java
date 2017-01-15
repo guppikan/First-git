@@ -15,7 +15,7 @@ import org.testng.Assert;
 
 public class Testbase {
 	static WebDriver driver;
-	static String url = "https://staging.roofstock.com";
+	static String url = "";
 
 	protected void startWebDriver() {
 		// setWebDriver(browser);
